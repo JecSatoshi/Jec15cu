@@ -3,7 +3,6 @@ using System.Collections;
 
 public class SelectJudge : MonoBehaviour {
 
-	public GameObject[] Player;     //プレイヤーを格納(おそらく4人)
 	public GameObject gamest;		//U&I
 
 	public static bool P1;          //Player1が決定しているか判定用
